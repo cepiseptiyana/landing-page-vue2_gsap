@@ -1,0 +1,27 @@
+// src/assets/_variables.scss
+
+// ----- Colors -----
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$danger-color: #e74c3c;
+$dark-color: #2c3e50;
+$light-color: #ecf0f1;
+
+// ----- Fonts -----
+$font-family-base: 'Poppins', sans-serif;
+$font-size-base: 16px;
+$font-size-lg: 20px;
+$font-size-sm: 14px;
+
+// ----- Spacing -----
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+// ----- Breakpoints (for responsive design) -----
+$breakpoint-sm: 576px;  // mobile
+$breakpoint-md: 768px;  // tablet
+$breakpoint-lg: 992px;  // small desktop
+$breakpoint-xl: 1200px; // large desktop
