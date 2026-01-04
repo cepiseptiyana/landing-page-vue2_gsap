@@ -2,13 +2,13 @@
 
 # TRICKS Scroll Toggle
 
-A visually engaging interactive website with smooth scroll-triggered animations built with **Vue.js** and **GSAP**. Inspired by the [TRICKS Scroll Toggle demo](https://github.com/cepiseptiyana/landing-page-vue2_gsap), this project showcases dynamic text and image animations that respond to scrolling.
+A visually engaging interactive website with smooth scroll-triggered animations built with **Vue.js** and **GSAP**. Inspired by the [TRICKS Scroll Toggle demo](https://landing-page-vue2-gsap.vercel.app/), this project showcases dynamic text and image animations that respond to scrolling.
 
 ---
 
 ## Demo
 
-[View Live Demo](https://github.com/cepiseptiyana/landing-page-vue2_gsap)
+[View Live Demo](https://landing-page-vue2-gsap.vercel.app/)
 
 ---
 
