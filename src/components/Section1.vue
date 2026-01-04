@@ -61,6 +61,8 @@ import { gsap } from "gsap";
 let mm = gsap.matchMedia();
 import ScrollTrigger from "gsap/ScrollTrigger";
 
+gsap.registerPlugin(ScrollTrigger);
+
 import Img from "@/assets/images/table_xl.jpg";
 import Wall from "@/assets/images/wall_xl.jpg";
 import Men from "@/assets/images/men_xl.jpg";
@@ -69,10 +71,8 @@ import hamburger from "@/assets/images/hamburger.svg";
 import globe from "@/assets/images/globe.svg";
 import tag from "@/assets/images/tag.svg";
 
-gsap.registerPlugin(ScrollTrigger);
-
 export default {
-  name: "HelloWorld",
+  name: "section-1",
   props: {
     msg: String,
   },
@@ -209,7 +209,6 @@ export default {
 
 <style lang="scss" scoped>
 @import "@/assets/styles/variables";
-@import "@/assets/styles/mixins";
 
 .container.section-1 {
   background-color: $dark-color;
